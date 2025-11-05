@@ -31,9 +31,13 @@ Modularity | Separate classes for each component
 ## 🗂️ Project Structure
 
 src/
+
 ├── Wahaj.java
+
 └── Main.java
+
 docs/
+
 └── Final_Report.pdf + UML.png + Class_Diagram.pdf
 
 ---
